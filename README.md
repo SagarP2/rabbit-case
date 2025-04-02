@@ -1,6 +1,6 @@
 # Rabbit Case
 
-Rabbit Case is a web application designed to provide a seamless and efficient case management system.
+Rabbit Case is a web application designed to provide a seamless and efficient case management system. It allows users to manage cases, collaborate in real-time, and track changes effectively. With a user-friendly interface and powerful features, Rabbit Case enhances workflow efficiency for businesses and legal professionals.
 
 ## Tech Stack
 
