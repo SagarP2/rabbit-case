@@ -1,18 +1,12 @@
 # Rabbit Case
 
-Rabbit Case is a web application designed to [briefly describe the purpose or functionality of the application].
-
-## Features
-
-- **Feature 1**: [Description of feature 1]
-- **Feature 2**: [Description of feature 2]
-- **Feature 3**: [Description of feature 3]
+Rabbit Case is a web application designed to provide a seamless and efficient case management system.
 
 ## Tech Stack
 
-- **Frontend**: [Technologies used, e.g., React.js, Redux]
-- **Backend**: [Technologies used, e.g., Node.js, Express.js]
-- **Database**: [Database used, e.g., MongoDB, PostgreSQL]
+- **Frontend**: React.js, Redux
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
 
 ## Installation
 
